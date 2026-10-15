@@ -1,0 +1,45 @@
+order_id,order_date,customer_name,region,product,category,quantity,unit_price,total_amount,sales_rep
+1001,2024-03-01,Grace Okafor,North,Office Chair,Furniture,3,179.00,537.00,Priya Shah
+1002,2024-03-03,Ethan Brooks,North,Monitor,Electronics,6,229.99,1379.94,Hannah Weber
+1003,2024-03-05,James Carter,West,Keyboard,Accessories,1,49.50,49.50,Luis Moreno
+1004,2024-03-07,,West,Monitor,Electronics,4,229.99,919.96,Priya Shah
+1005,2024-03-09,Mei Chen,North,Monitor,Electronics,4,229.99,919.96,Hannah Weber
+1006,2024-03-11,Tom Becker,North, Standing Desk,Furniture,1,349.00,349.00,Hannah Weber
+1007,2024-03-13,Grace Okafor,South,Wireless Mouse,Accessories,5,24.99,124.95,Hannah Weber
+1008,2024-03-15,Sofia Rossi,South,Monitor,Electronics,5,229.99,1149.95,Priya Shah
+1008,2024-03-15,Sofia Rossi,South,Monitor,Electronics,5,229.99,1149.95,Priya Shah
+1009,2024-03-17,James Carter,North,Keyboard,Accessories,6,49.50,297.00,Hannah Weber
+1010,2024-03-19,Noah Fischer,,Laptop,Electronics,4,899.00,3596.00,Luis Moreno
+1011,2024-03-21,Daniel Kim,East,Webcam,Electronics,8,69.99,559.92,Priya Shah
+1012,2024-03-23,James Carter,East,Wireless Mouse,Accessories,4,24.99,99.96,Hannah Weber
+1013,2024-03-25,Omar Haddad,West ,Webcam,Electronics,6,69.99,419.94,Luis Moreno
+1014,2024-03-27,Sofia Rossi,West,Monitor,Electronics,2,229.99,459.98,Priya Shah
+1015,2024-03-29,Noah Fischer,West,Office Chair,Furniture,250,179.00,44750.00,Priya Shah
+1016,2024-03-31,Daniel Kim,East,Monitor,Electronics,6,229.99,1379.94,Hannah Weber
+1017,2024-04-02,James Carter,North,Webcam,Electronics,8,69.99,559.92,Luis Moreno
+1018,2024-04-04,,East,Webcam,Electronics,2,69.99,139.98,Hannah Weber
+1019,2024-04-06,Omar Haddad,West,Webcam,Electronics,5,69.99,349.95,Hannah Weber
+1019,2024-04-06,Omar Haddad,West,Webcam,Electronics,5,69.99,349.95,Hannah Weber
+1020,2024-04-08,Noah Fischer,East,Office Chair,Furniture,1,179.00,179.00,Priya Shah
+1021,2024-04-10,Maria Lopez,South,Monitor,Electronics,8,229.99,1839.92,Luis Moreno
+1022,2024-04-12,Grace Okafor,West ,Wireless Mouse,Accessories,4,24.99,99.96,Luis Moreno
+1023,2024-04-14,Noah Fischer,West,Monitor,Electronics,3,229.99,689.97,Hannah Weber
+1024,2024-04-16,Grace Okafor,East,USB-C Cable,Accessories,3,12.99,38.97,Hannah Weber
+1025,2024-04-18,Mei Chen,West,Standing Desk,Furniture,6,349.00,2094.00,Priya Shah
+1026,2024-04-20,Aisha Khan,South,Wireless Mouse,Accessories,2,24.99,49.98,   
+1027,2024-04-22,Noah Fischer,South,Keyboard,Accessories,1,49.50,49.50,Luis Moreno
+1028,2024-04-24,Aisha Khan,West,USB-C Cable,Accessories,1,8999.00,8999.00,Hannah Weber
+1029,2024-04-26,Aisha Khan,North,Office Chair,Furniture,6,179.00,1074.00,Luis Moreno
+1030,2024-04-28,Grace Okafor,West,Standing Desk,Furniture,7,349.00,2443.00,Priya Shah
+1031,2024-04-30,Maria Lopez,South,Webcam,Electronics,7,,,Priya Shah
+1032,2024-05-02,Aisha Khan,North,Keyboard,Accessories,8,49.50,396.00,Luis Moreno
+1033,2024-05-04,Maria Lopez,South,Laptop,Electronics,2,899.00,1798.00,Hannah Weber
+1034,2024-05-06,Ethan Brooks,North,Monitor,Electronics,6,229.99,1379.94, Priya Shah
+1035,2024-05-08,Aisha Khan,East,Keyboard,Accessories,7,49.50,346.50,Luis Moreno
+1036,2024-05-10,James Carter,North,Office Chair,Furniture,8,179.00,1432.00,Luis Moreno
+1037,2024-05-12,Noah Fischer,East,Webcam,Electronics,8,69.99,559.92,Priya Shah
+1038,2024-05-14,Omar Haddad,East,Wireless Mouse,Accessories,2,24.99,49.98,Hannah Weber
+1039,2024-05-16,Omar Haddad,South,USB-C Cable,Accessories,8,12.99,103.92,Hannah Weber
+1040,2024-05-18,Sofia Rossi,East,Laptop,Electronics,4,899.00,3596.00,Priya Shah
+1041,2024-05-20,Mei Chen,North,Laptop,Electronics,5,899.00,4495.00,Hannah Weber
+1042,2024-05-22,Aisha Khan,East,USB-C Cable,Accessories,6,12.99,77.94,Priya Shah
