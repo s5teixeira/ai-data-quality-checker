@@ -1,0 +1,36 @@
+# Dark charcoal theme with orange accents.
+# Streamlit reads this file automatically when you run `streamlit run app.py`
+# from the project folder. Docs: https://docs.streamlit.io/develop/concepts/configuration/theming
+
+[theme]
+base = "dark"
+primaryColor = "#EA580C"             # buttons, active tab, focus rings
+backgroundColor = "#15161D"          # page background
+secondaryBackgroundColor = "#303240" # inputs, upload area, code blocks
+textColor = "#F5F5F7"
+borderColor = "#3A3B49"
+showWidgetBorder = true
+linkColor = "#FB923C"
+codeTextColor = "#FDBA74"            # inline code, e.g. the dataset name
+
+# st.info() boxes use Streamlit's "blue" color. Pointing it at orange keeps
+# the info messages (like the AI setup instructions) on-theme.
+blueColor = "#FB923C"
+blueTextColor = "#FDBA74"
+
+# Colors used by :orange[...] in st.markdown and headings
+orangeColor = "#F97316"
+orangeTextColor = "#FB923C"
+
+# Data tables: a subtle dark-orange tint on the header row
+dataframeHeaderBackgroundColor = "#3D2B26"
+dataframeHeaderTextColor = "#FDBA74"
+dataframeBorderColor = "#3A3B49"
+
+# Chart colors. Charts use the first color for a single series, and
+# alternating dark/light oranges keep neighbouring series distinguishable.
+chartCategoricalColors = ["#F97316", "#FDBA74", "#EA580C", "#FB923C"]
+chartSequentialColors = [
+    "#FFF7ED", "#FFEDD5", "#FED7AA", "#FDBA74", "#FB923C",
+    "#F97316", "#EA580C", "#C2410C", "#9A3412", "#7C2D12",
+]

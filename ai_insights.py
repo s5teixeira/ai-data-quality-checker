@@ -7,9 +7,6 @@ just shows setup instructions and everything else keeps working.
 import json
 import os
 
-# httpx is the HTTP library the Gemini SDK uses under the hood. It gets
-# installed along with google-genai, and network failures (no internet,
-# timeouts) come through as httpx errors rather than Gemini errors.
 import httpx
 from google import genai
 from google.genai import errors, types
@@ -102,8 +99,7 @@ def describe_gemini_error(error):
     """
     message = error.message or ""
 
-    # 429 = too many requests. On the free tier this means the per-minute or
-    # per-day limit was reached. We deliberately don't retry with another model.
+    # 429 = too many requests
     if error.code == 429:
         return (
             "The Gemini free-tier limit has been reached. Please wait a minute and try again, "
