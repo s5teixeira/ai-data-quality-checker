@@ -5,7 +5,7 @@ A Python and Streamlit application that identifies common data quality issues in
 ### Overview Tab
 Dashboard analyzing sample sales dataset, showing data metrics, missing values, duplicates, and possible outliers
 
-![Data Quality Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Detailed Findings Tab
 A breakdown of missing values, duplicate records, and whitespace inconsistencies found in the dataset
