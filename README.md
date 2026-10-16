@@ -5,7 +5,7 @@ A Python and Streamlit application that identifies common data quality issues in
 ### Overview Tab
 Dashboard analyzing sample sales dataset, showing data metrics, missing values, duplicates, and possible outliers
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Detailed Findings Tab
 A breakdown of missing values, duplicate records, and whitespace inconsistencies found in the dataset
@@ -20,7 +20,7 @@ View the original CSV records, column names, data types, and missing-value count
 ### AI Insights Tab
 Google gemini ai integration for explaining data findings and recommending next steps
 
-![AI Insights](screenshots/Ai_insights.png)
+![AI Insights](screenshots/ai_insights.png)
 
 ## Features
 
